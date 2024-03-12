@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Connect {
-    static final String URL = "jdbc:mysql://localhost:3306/hospitalms";
+    static final String URL = "jdbc:mysql://****/hospitalms";
     static final String USERNAME = "root";
     static final String PASSWORD = "****";
 
